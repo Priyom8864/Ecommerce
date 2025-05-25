@@ -2,6 +2,13 @@
 
 Welcome to the E-commerce Website project! This project is designed to provide a seamless online shopping experience with a user-friendly interface and dynamic functionalities.
 
+
+## Working GIF
+
+![Website Working Demo](vid.gif)
+
+<!-- Place your demo.gif inside the images/ folder. Update the path if your GIF is elsewhere. -->
+
 ## Project Structure
 
 The project consists of the following files and directories:
